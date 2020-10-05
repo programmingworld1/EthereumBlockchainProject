@@ -6,7 +6,6 @@ contract Inbox{
     
     string public message = "Hello World";
     
-    
     constructor(string memory text) {
         
         message = text;
